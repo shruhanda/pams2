@@ -1,2 +1,2 @@
-# pams2
+# pams
 Project Name: Online Project Activity management 
